@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doors-Open-final</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">Doors open ottawa Home</string>
+    <string name="author">Cody Joseph Armstrong III</string>
+    <string name="action_about">This is Doors Open Ottawa mobile application.</string>
+</resources>

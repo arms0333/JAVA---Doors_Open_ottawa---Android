@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_ba1e71382591373002f8380f9a5dab0694549ce6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_9a9c589aec67abc0ce2b45398f12d42675270d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_ff6b2f66d3bbe9d0bafec28019f30e4d8968f8a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_53d977bb3691ffec4428bcc75e3c4b86ee55fef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_c88aae14801de9e73a4f7d984c51b6eadd17c27e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_c8879e5bcc0a04389aa563c5bfc77b5c876156a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_00de4887568c4e07f033f9b53373ba18ac59b75c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_152240db7eb8dfb19d2c7258f88c6b48023c875c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_195be87dd93ee7e6272b287bdae85cee53477b0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_f4052db1dd5937485cf7ab734302ba04acabd97a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_268647729e2b085e6ae9416b92fc057bb232c8ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_f408e877971f2f06b2febd910aec9502a9a68ec8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_02cb42849390ecdbf3fdd333b8b1907fd10be8eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_aac3e314d9d704255bcb66605d130c271408884c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_ac4a19aaebc5f8ef28a53140c127da1785ade838/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_d09bc9218f201b13a5e69ae2b2376b00107bdca6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f8a98adeccd021a1d6e665e14a6344b7ac1f791f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_adb9843b03ab327c55ba22bd5d4cf9c9ccd722fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_35127ebcc34d12487d7725c8d5073e9982554822/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_aac981bf52b8d1cdb3281de34773524029647027/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b1f3bab10047e56a22feeeab06d259e9cb86c69a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_62a84792c67fdca060ef58dc0ec203880352cd28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_835d7443e229a712c7e4023a04a1f13a089839f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-21.0.3_21ffba2b62efee32112ab08db88fc8459baf6640/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_21681bba5d76f715a6237e39039d8f254ca60d82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_9744bec3252b9ea8ba1c6bf64b70db9ff9c9bd53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_3868b49cf9b536d8c230c5e5e0507bc6e349f33c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_805a1994c87fcda4fe2e092139b4d0f51e899585/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_6c9eba308834326048cf712be777a5f2359d181b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ea2bb9d97d11b1b8cea5e75f195993ccc3bfcb6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_ea6577e992603476e3165c4bdbae9d986322dce8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_2b50820e26897e4a3556289ab02d0cc072c03f8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_e4ad3c5073bca1862d3bd6e74329029f8833b908/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7628f6356169c3091daa28a554581ca897d4b457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_71b5158b4b536a5fc74c94cb7eec1b40f73716b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_fd063629cd56aae4fef15f5b486b3d11755adb48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_22df02a48fc887fb374e89bd3f83228369d44e30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_2360f33a9301eebdc736335f7abdfa8ffe4cfe8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_78203934500ffd02c06b1cb64145832119bf2b1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_b8a58c40aa5ce7455ca2bce57750b6c6234ab0e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_819a478f75644affd60c59a377752ff8ecf2f8fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_429ed1744e7605c9484db42e042059d8bada37c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_319855c3a4f7ce72ff4250da3c0db9abf7d5d85d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_ae46e01c0d258c97a829baf167f50dfc0a971cce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_fe122387d16bbb688045e1971a74ba4a22fb6459/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_c606df82ce8333ec12894c4a730cf5a36d2338be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_632f8834d97774143dcc7da639be4cd93ff4f4ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_6819d070bc86ab48cd0f7c4a96f2698a3cd87024/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6295063aecdb0f963e7f356e1830a4ee8ff2cf85">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_35b8c110777f5cee96d51feb6e994c5107567f5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_fb4b8bea7bc059fac6c1980dcb9b3793814881f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_6111cc76f8114dbb54193b05496dc88d8dccc371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_56f8474159e21e2f3948360b7cd85f3bbecc3d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_14557416ece9645c027e06ad296a82497a81ec33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_350d29f6d563af02030ea912b51e94c60c238287/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_6343724c82c17b688af4c937eae11ef4f68b8baf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_b3b203d916a8c41c07943a7c8aafabefb124d7c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_7a1202a377be5f7ef77069c8716e9bf313c55771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_da7a2147452c46750ede62b775efe887ca7530b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="436a2a55c4c524d0b67852fc1ad458a0d4abfba0">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c145a81d35fa9e816e69fc5c60b15212e4c2d411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d39ee41622d59b355236cbe936045044347b57f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_38848c73ae48069b9e5810514cd79fd0e7a24e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_a942a3ae1c216a7977753270c9bceaa033fbb9b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_9489467c8f832628ee5d4d02df56b1e6f1519f0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_82e52c8f8e914efbb63063c97210cb97c4dfe656/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_96ca07bc3c92a766d41ec9d800e66a0e95e0c7ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_82fcdc0e57c9532ae815f9dd030f315b97e7041c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_57000aa6e8f9312e08a033d8ae1ecf53d395d919/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_40196cf3c01a4e68e7113b3538086159c480d9c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_229bc53d53b19a397b22269ef5cfda51c84702ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_16766bf77beef52a8924a7913178b018e75b8386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/codyarmstrong/Desktop/Doors-Open-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_d53b97bab4269f87d42a35e414be8b4fe562e89e/classes.dex" />
+    </item>
+
+</items>
